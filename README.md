@@ -5,8 +5,8 @@
 - 📫 How to reach me
 - Phone no:7538886399
 - mail id:sanjaivirat73@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE/HIM
+
 
 <!---
 Sanjai-M/Sanjai-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

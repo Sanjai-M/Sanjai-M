@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjai-M
-- 👀 I’m interested in UI/UX designing,Data Analytics and Web development.
-- 🌱 I’m currently learning UI/UX designing usinf Figma and Data Analytics using Power BI tool.
+- 👀 I’m interested in UI/UX designing and Web development.
+- 🌱 I’m currently learning UI/UX designing using Figma.
 - 💞️ I’m looking to collaborate on Reputated company for developing skills.
 - 📫 How to reach me
 - Phone no:7538886399
